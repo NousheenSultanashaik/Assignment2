@@ -4,6 +4,7 @@ package com.example.assignmentrecyclerview1
 import android.annotation.SuppressLint
 import android.app.DatePickerDialog
 import android.app.TimePickerDialog
+import android.content.Intent
 import android.icu.util.Calendar
 import android.os.Build
 import android.os.Bundle
@@ -54,6 +55,7 @@ import java.util.*
                 dateandtime.text.toString(),
                 btechPassoutYear.text.toString()
             )
+            startActivity(Intent(applicationContext, Fetchdata::class.java))
 
 
         }
