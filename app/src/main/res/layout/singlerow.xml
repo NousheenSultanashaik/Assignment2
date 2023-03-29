@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_gravity="center_horizontal"
+    app:cardUseCompatPadding="true"
+    app:cardCornerRadius="6dp"
+    android:elevation="4dp"
+    android:layout_margin="5dp"
+        >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:layout_marginTop="1dp"
+            android:orientation="vertical"
+            android:padding="12dp"
+            android:background="@color/white"
+            >
+
+            <TextView
+                android:layout_width="88dp"
+                android:layout_height="17dp"
+                android:id="@+id/displayname"
+                android:textSize="12dp"
+                android:text="@string/String2"
+                android:textColor="@color/lightgray"
+                tools:ignore="SpUsage" />
+
+            <TextView
+                android:layout_width="127dp"
+                android:layout_height="17dp"
+                android:id="@+id/displayemail"
+                android:textSize="12sp"
+                android:text="@string/String3"
+                android:layout_marginTop="3dp"
+                />
+            <TextView
+                android:layout_width="69dp"
+                android:layout_height="14dp"
+                android:id="@+id/displaygender"
+                android:textSize="12dp"
+                android:text="@string/String6"
+                android:layout_marginTop="3dp"
+                tools:ignore="SpUsage" />
+            <TextView
+                android:layout_width="166dp"
+                android:layout_height="14dp"
+                android:id="@+id/displaybtechpassoutyear"
+                android:textSize="10sp"
+                android:text="@string/String7"
+                android:layout_marginTop="3dp"
+                tools:ignore="SmallSp" />
+            <TextView
+                android:layout_width="166dp"
+                android:layout_height="14dp"
+                android:id="@+id/displaydob"
+                android:textSize="10dp"
+                android:text="@string/String17"
+                android:layout_marginTop="3dp"
+                tools:ignore="SpUsage" />
+            <TextView
+                android:layout_width="166dp"
+                android:layout_height="14dp"
+                android:id="@+id/displaydateandtime"
+                android:textSize="10dp"
+                android:text="@string/String18"
+                android:layout_marginTop="3dp"
+                tools:ignore="SpUsage" />
+
+
+        </LinearLayout>
+</androidx.cardview.widget.CardView>

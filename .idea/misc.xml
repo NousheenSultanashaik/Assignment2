@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/admin/AndroidStudioProjects/AssignmentRecyclerview1/app/src/main/res/drawable/edit_btn.xml" value="0.1375" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/AssignmentRecyclerview1/app/src/main/res/drawable/empty_circle.xml" value="0.1375" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/AssignmentRecyclerview1/app/src/main/res/drawable/filled_circle.xml" value="0.1375" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/AssignmentRecyclerview1/app/src/main/res/drawable/ic_arrow.xml" value="0.1375" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/AssignmentRecyclerview1/app/src/main/res/drawable/ic_dateandtimepicker.xml" value="0.1375" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/AssignmentRecyclerview1/app/src/main/res/drawable/ic_dobpicker.xml" value="0.1375" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/AssignmentRecyclerview1/app/src/main/res/drawable/ic_headerbar_background.xml" value="0.1375" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/AssignmentRecyclerview1/app/src/main/res/drawable/ic_male.xml" value="0.1375" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/AssignmentRecyclerview1/app/src/main/res/drawable/ic_plus.xml" value="0.1375" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/AssignmentRecyclerview1/app/src/main/res/drawable/ic_star_empty.xml" value="0.1375" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/AssignmentRecyclerview1/app/src/main/res/drawable/ic_star_filled.xml" value="0.1375" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/AssignmentRecyclerview1/app/src/main/res/drawable/minus.xml" value="0.1375" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/AssignmentRecyclerview1/app/src/main/res/drawable/person.xml" value="0.1375" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/AssignmentRecyclerview1/app/src/main/res/drawable/rectangle_shape.xml" value="0.1375" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/AssignmentRecyclerview1/app/src/main/res/drawable/star_half_yellow_icon.xml" value="0.1375" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/AssignmentRecyclerview1/app/src/main/res/drawable/star_symbol_icon.xml" value="0.1375" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/AssignmentRecyclerview1/app/src/main/res/drawable/women.xml" value="0.1375" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/AssignmentRecyclerview1/app/src/main/res/font/open_sans.xml" value="0.1" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/AssignmentRecyclerview1/app/src/main/res/layout/activity_fetchdata.xml" value="0.1" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/AssignmentRecyclerview1/app/src/main/res/layout/activity_main.xml" value="0.1621376811594203" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/AssignmentRecyclerview1/app/src/main/res/layout/fetchdata.xml" value="0.1484375" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/AssignmentRecyclerview1/app/src/main/res/layout/singlerow.xml" value="0.264" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/AssignmentRecyclerview1/app/src/main/res/layout/year_menu.xml" value="0.1621376811594203" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/AssignmentRecyclerview1/app/src/main/res/menu/year_menu.xml" value="0.14947916666666666" />
+      </map>
+    </option>
+  </component>
+</project>
