@@ -38,6 +38,7 @@ class DbManager(context: Context?) : SQLiteOpenHelper(context, DB_NAME, null, DB
             put(EMAIL, email)
             put(BTECH_PASSOUT_YEAR, btechPassoutYear)
         }
+
         val result = db.insert(TABLE_NAME, null, values)
 
         return if (result == -1L) {
