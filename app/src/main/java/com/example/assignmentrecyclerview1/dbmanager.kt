@@ -47,6 +47,7 @@ class DbManager(context: Context?) : SQLiteOpenHelper(context, DB_NAME, null, DB
         }
     }
 
+
     fun readAllData(): Cursor? {
         val db = this.writableDatabase
         val query = "SELECT * FROM $TABLE_NAME ORDER BY $ID DESC"
