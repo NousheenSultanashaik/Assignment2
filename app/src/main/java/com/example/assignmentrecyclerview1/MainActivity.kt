@@ -46,19 +46,6 @@ import java.util.*
         btechPassoutYear = findViewById(R.id.btechpassout_edittext)
         saveButton = findViewById(R.id.saveButton)
         saveButton = findViewById(R.id.saveButton)
-        saveButton.setOnClickListener {
-            processInsert(
-                name.text.toString(),
-                email.text.toString(),
-                getSelectedGender(),
-                dob.text.toString(),
-                dateandtime.text.toString(),
-                btechPassoutYear.text.toString()
-            )
-            startActivity(Intent(applicationContext, Fetchdata::class.java))
-
-
-        }
 
         val menButton = findViewById<Button>(R.id.maleButton)
         val womenButton = findViewById<Button>(R.id.femaleButton)
